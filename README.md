@@ -237,4 +237,4 @@ This repository serves as the official landing page for WOW QuestHelper Addon. T
 **Get the most recent version of WOW QuestHelper Addon today!**
 
 ---
-**Last updated:** 2026-10-11 04:25:11 UTC
+**Last updated:** 2026-10-11 11:05:45 UTC
